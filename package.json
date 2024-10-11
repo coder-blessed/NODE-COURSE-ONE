@@ -1,0 +1,19 @@
+{
+  "name": "node-course-one",
+  "version": "1.0.0",
+  "description": "blessed node-codes",
+  "main": "1-intro.js",
+  "scripts": {
+    "start":"node App.js",
+    "dev": "nodemon App.js"
+  },
+  "author": "isede orobosa blessed (icom)",
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
